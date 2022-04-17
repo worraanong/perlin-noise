@@ -1,0 +1,7 @@
+C:\Users\worraano\perlin-noise\obj\Debug\ImprovedPerlinNoise.csproj.AssemblyReference.cache
+C:\Users\worraano\perlin-noise\obj\Debug\ImprovedPerlinNoise.csproj.CoreCompileInputs.cache
+C:\Users\worraano\perlin-noise\bin\Debug\ImprovedPerlinNoise.exe.config
+C:\Users\worraano\perlin-noise\bin\Debug\ImprovedPerlinNoise.exe
+C:\Users\worraano\perlin-noise\bin\Debug\ImprovedPerlinNoise.pdb
+C:\Users\worraano\perlin-noise\obj\Debug\ImprovedPerlinNoise.exe
+C:\Users\worraano\perlin-noise\obj\Debug\ImprovedPerlinNoise.pdb
